@@ -16,6 +16,6 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^3.0.2"
   }
 }
